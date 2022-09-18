@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mvald\\Documents\\GXC\\Educacion_backend\\Educacion_backend\\Educacion_backend.csproj": {}
+    "D:\\mvald\\Documents\\GXC\\repositorios\\Educacion_backend\\Educacion_backend.csproj": {}
   },
   "projects": {
-    "D:\\mvald\\Documents\\GXC\\Educacion_backend\\Educacion_backend\\Educacion_backend.csproj": {
+    "D:\\mvald\\Documents\\GXC\\repositorios\\Educacion_backend\\Educacion_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mvald\\Documents\\GXC\\Educacion_backend\\Educacion_backend\\Educacion_backend.csproj",
+        "projectUniqueName": "D:\\mvald\\Documents\\GXC\\repositorios\\Educacion_backend\\Educacion_backend.csproj",
         "projectName": "Educacion_backend",
-        "projectPath": "D:\\mvald\\Documents\\GXC\\Educacion_backend\\Educacion_backend\\Educacion_backend.csproj",
+        "projectPath": "D:\\mvald\\Documents\\GXC\\repositorios\\Educacion_backend\\Educacion_backend.csproj",
         "packagesPath": "C:\\Users\\mvald\\.nuget\\packages\\",
-        "outputPath": "D:\\mvald\\Documents\\GXC\\Educacion_backend\\Educacion_backend\\obj\\",
+        "outputPath": "D:\\mvald\\Documents\\GXC\\repositorios\\Educacion_backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

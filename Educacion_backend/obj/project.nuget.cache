@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OMZOMjUpH435Zn5fq5M1cxZ9p220iJT+2jsCUUdj1eh++/rR0kB6xavGphql2IW3rMrEV2FwLcsJeiWbNwseVg==",
+  "dgSpecHash": "3fJcdGa54lBC3tTe4YKKn9S4laCjZOD/PdG+fR2zD7qrPe9zjsf2tTIJvpP+ddODYej++62WLzcPH/3Nv1aahw==",
   "success": true,
-  "projectFilePath": "D:\\mvald\\Documents\\GXC\\Educacion_backend\\Educacion_backend\\Educacion_backend.csproj",
+  "projectFilePath": "D:\\mvald\\Documents\\GXC\\repositorios\\Educacion_backend\\Educacion_backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mvald\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mvald\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
